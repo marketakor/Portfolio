@@ -23,6 +23,12 @@ Basic data analysis using pandas and matplotlib.
 
 👉 https://github.com/marketakor/sales-analysis-python
 
+### 2. Tic Tac Toe (Python, OOP)
+Simple implementation of Tic Tac Toe using object-oriented programming.  
+
+👉 https://github.com/marketakor/tic-tac-toe-oop-python
+
+
 ---
 
 ## Skills
